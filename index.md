@@ -15,3 +15,7 @@ Python
 ```python
 print("Learn programming")
 ```
+
+- [x] Wake up
+- [x] Take out the trash
+- [ ] Conquer the World!
